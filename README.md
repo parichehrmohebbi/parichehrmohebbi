@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 
 - ✨ I’m currently working on my personal portfolio project, using Next.js, Typescript, Tailwind, Cypress, Storybook.
 - 🌱 I’m currently learning Cypress, Tailwind and found both really facinating
-- 👯 I’m looking for upcomming events on latest web frameworks with focusing on Resumablity over Hydration
+- 👯 I’m looking for upcomming events on latest web frameworks with focus on Resumablity over Hydration
 
 ## 📫 How to reach me:
 
