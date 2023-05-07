@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 
 ## 📫 How to reach me:
 
-- 👔 [LinkedIn](https://www.linkedin.com/in/parichehr-mohebbi/)
+- 👩🏻‍⚕️ [LinkedIn](https://www.linkedin.com/in/parichehr-mohebbi/)
 - ✉️ [parichehr_mohebbi@yahoo.com](mailto:parichehr_mohebbi@yahoo.com)
