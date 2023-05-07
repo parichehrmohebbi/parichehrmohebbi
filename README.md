@@ -13,7 +13,7 @@ I have the experience of working in various types of companies, from large top-r
 
 - ✨ I’m currently working on my personal portfolio project, using Next.js, Typescript, Tailwind, Cypress, Storybook.
 - 🌱 I’m currently learning Cypress, Tailwind and found both really facinating
-- 👯 I’m looking for upcomming events on latest web frameworks with focus on Resumablity over Hydration
+- 🔍 I’m looking for upcomming events on latest web frameworks with focus on Resumablity over Hydration
 
 ## ⚡ Tech Stack and Skills:
 
