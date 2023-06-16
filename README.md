@@ -23,5 +23,5 @@ I have the experience of working in various types of companies, from large top-r
 ## 📝 How to reach me:
 
 - [LinkedIn](https://www.linkedin.com/in/parichehr-mohebbi/)
-- [parichehr_mohebbi@yahoo.com](mailto:parichehr_mohebbi@yahoo.com)
+- [Email](mailto:parichehr_mohebbi@yahoo.com)
 - [Stackoverflow](https://stackoverflow.com/users/4865619/parichehr-mohebbi)
