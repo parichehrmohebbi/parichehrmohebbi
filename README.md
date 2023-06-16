@@ -11,9 +11,9 @@ Here are some ideas to get you started:
 Being focused on frontend technologies in the last years of my career I also have a great knowledge of backend and database design in many projects as well that makes me a T-shaped developer with the ability to help the team in many phases of system development. I have an extensive experience working with JavaScript and React. I am committed to working collaboratively with agile teams and have a proven track record of delivering high-quality results in a fast-paced environment.<br/>
 I have the experience of working in various types of companies, from large top-ranked organizations to newly established startups, and I have been successful to help them much not only as a frontend developer but also by serving as a technical consult, leading the team, playing the role of scrum master, mentoring junior developers and sharing my knowledge. I have a deep sense of commitment to my work and I am truly enthusiast to learn new technologies.
 
-- ✨ I’m currently working on my personal portfolio project, using Next.js, Typescript, Tailwind, Cypress, Storybook.
-- 🌱 I’m currently learning Cypress, Tailwind and found both really facinating
-- 🔍 I’m looking for upcomming events on latest web frameworks with focus on Resumablity over Hydration
+- ✨ I’m currently having some fun with Copilot😃 as it is a place to work with opportunity to learn and grow
+- 🌱 I’m also thinking of my next personal project and I am really curious about Qwik
+- 🔍 I’m looking for upcomming events on latest web frameworks and AI as well
 
 ## ⚡ Tech Stack and Skills:
 
