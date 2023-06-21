@@ -12,7 +12,7 @@ Being focused on frontend technologies in the last years of my career I also hav
 I have the experience of working in various types of companies, from large top-ranked organizations to newly established startups, and I have been successful to help them much not only as a frontend developer but also by serving as a technical consult, leading the team, playing the role of scrum master, mentoring junior developers and sharing my knowledge. I have a deep sense of commitment to my work and I am truly enthusiast to learn new technologies.
 
 - ✨ I’m currently having some fun with ChatGPT😃 as it is a place to work with opportunity to learn and grow
-- 🌱 I’m also thinking of my next side project and I am really curious about Qwik
+- 🌱 I’m also thinking of my next side project and I am really curious about AWS
 - 🔍 I’m looking for upcomming events on latest web frameworks and AI as well
 
 ## ⚡ Tech Stack and Skills:
